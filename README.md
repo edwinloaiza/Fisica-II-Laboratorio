@@ -1,0 +1,1 @@
+Este repositorio incluye los notebooks correspondientes al curso de Física II + Laboratorio, ofrecido a estudiantes de Ingeniería Industrial y Civil de la Universidad del Valle en las sedes de Buga y Cali. Este curso se llevó a cabo durante el periodo académico de Febrero a Junio de 2023.
